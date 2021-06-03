@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "84e062fd53870d32",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f727bbe517c368",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intro to Ethical Hacking/Ethical Hacking Overview.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "590d0cba4b850240",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdaf0d9b78a28b7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "272f3116d627ef88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69facea1d665d6a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "385c19b4afd950b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d737757e22e1592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee48010a000e6b5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intro to Ethical Hacking/Ethical Hacking Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "93f727bbe517c368",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
