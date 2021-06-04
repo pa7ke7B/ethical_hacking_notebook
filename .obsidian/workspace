@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intro to Ethical Hacking/Ethical Hacking Overview.md",
+            "file": "Programming/Bash Scripting.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to Ethical Hacking/Ethical Hacking Overview.md",
+                "file": "Programming/Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "93f727bbe517c368",
   "lastOpenFiles": [
+    "Linux/Untitled.md",
+    "Intro to Ethical Hacking/Untitled.md",
+    "Intro to Ethical Hacking/Ethical Hacking Overview.md",
     "Untitled.md"
   ]
 }

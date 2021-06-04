@@ -26,7 +26,7 @@ There are two types of attacks:
 - attacks that send large amounts of packets in a short time frame to shutdown a service
 - Ex: DDoS Attacks
 
-![](../Pasted%20image%2020210602203836.png)
+![](Pasted%20image%2020210602203836.png)
 
 ## Navigating Attack Vectors
 
