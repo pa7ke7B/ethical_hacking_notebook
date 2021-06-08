@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Bash Scripting.md",
+            "file": "Programming/C_Programming/C_Programming.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Bash Scripting.md",
+                "file": "Programming/C_Programming/C_Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,12 @@
   },
   "active": "93f727bbe517c368",
   "lastOpenFiles": [
+    "Programming/C_Programming/Untitled.md",
+    "Programming/Python_Scripting/Python_Scripting.md",
+    "Linux/Linux Commands.md",
+    "Programming/Python_Scripting/Untitled.md",
+    "Programming/Bash Scripting.md",
+    "Programming/Untitled.md",
     "Linux/Untitled.md",
     "Intro to Ethical Hacking/Untitled.md",
     "Intro to Ethical Hacking/Ethical Hacking Overview.md",
